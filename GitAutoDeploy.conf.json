@@ -3,7 +3,7 @@
 	"repositories": 
 	[{
 		"url": "https://github.com/cnsaturn/iTalk", 
-		"path": "/your/local/path/on/target/server/here",
-		"deploy": "make deploy"
+		"path": "/your/local/path/on/target/server/here", 
+		"deploy": "make deploy" // 自定义 makefile
 	}]
 }
